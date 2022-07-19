@@ -1,4 +1,4 @@
-# text_to_html
+# Text_to_HTML
 django project which convert text to the html tags.
 
 ### To run this project 
